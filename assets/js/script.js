@@ -3,7 +3,7 @@
 // ===============================
 
 // --- 1. Particle Animations: Sparkles & Orbs ---
-
+ 
 /**
  * Creates floating sparkle elements (background particles)
  * @param {number} count
@@ -470,3 +470,5 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   window.showHome?.();
 });
+
+
